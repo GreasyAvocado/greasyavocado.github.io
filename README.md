@@ -1,1 +1,3 @@
-# greasyavocado.github.io
+# GreasyAvocado :avocado:
+
+https://www.linkedin.com/in/arthurbogin
