@@ -1,3 +1,3 @@
-# GreasyAvocado :avocado:
+# GreasyAvocado 🥑
 
-https://www.linkedin.com/in/arthurbogin
+<https://www.linkedin.com/in/arthurbogin>
